@@ -19,6 +19,9 @@ Therefore, for this example I decided to make some assumptions of the data, some
 
 ![ajajau](Semantic%20Model.png)
 
+![akjauiaa](Spain%20%26%20Germany.png)
+
+
 
 
 Added Table Descriptions for clarification.
