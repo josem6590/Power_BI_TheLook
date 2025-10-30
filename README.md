@@ -82,6 +82,7 @@ We are 60% up YOY with significant growth in all markets apart from Poland, Aust
 Overall sales completed show that China, the United States and Brazil account for 71% of the revenue we receive; these are key business countries for us. We can further see by clicking through that such places as Shanghai and Beijing are really driving the business. This will help the marketing team when we try to drive our marketing efforts. We can also see this from the map view, especially if we filter for specific countries and zoom in to see what areas are driving business. Providing insights for more localised strategic planning.
 This page also has more of a focus on the products being sold, and with the filters we have, we can really drill down to see what the key brands and products are.
 I can see the number of orders and the number of items ordered.
+![ajaiwhg](PAGE%202.png)
 
 ### Items Cancelled/Returned
 The key metric on this page is the % of items returned/cancelled because we need to check for any anomalies by product or even country. Also, we need to understand what good looks like because 10% of items being returned seems high and raises more questions in regards to how we can go about reducing that. In the same vein, further investigation needs to be done on my many items that are being cancelled.
