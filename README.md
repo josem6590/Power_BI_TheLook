@@ -6,11 +6,10 @@
 I decided to host a second project and thought it a good idea to create, document and explain my thought process behind the below Power BI Dashboard.
 
 ### Google BigQuery
-I used the fictitious ecommerce data called "TheLook" hosted by Google BigQuery and imported this directly into Power BI. Once imported i took a look at the data as there was no descriptions to be found of the tables and coliumns,
-
-Therefore, for this example I decided to make some assumptions of the data, something i wouldn't do in a real world example. Exploring the data i came to the conclusion that t was an online clothing store and the company was an American company. The data for the most part was clean but i made the below changes in the "Transform" section of Power BI:
-
+I used the fictitious e-commerce data called "TheLook" hosted by Google BigQuery and imported this directly into Power BI. I did look to see if there was any explanation or description of the tables and coloumns but there was not.
 ![blah](Big%20Query.png)
+Therefore, once imported into Power BI I took a good look at the data and decided to make some assumptions, something I obviously would not do in the real world. I concluded that it was an online clothing store, and the company was an American company. The data, for the most part, was clean but I made the below changes in the "Transform" section of Power BI:
+
 
 ![jaja](Custom%20Column%20for%20Existing%20Customer.png)
 
