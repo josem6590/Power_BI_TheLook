@@ -11,18 +11,14 @@ I used the fictitious e-commerce data called "TheLook" hosted by Google BigQuery
 ![jajaja](PowerBi%20Import.png)
 Therefore, once imported into Power BI I took a good look at the data and decided to make some assumptions, something I obviously would not do in the real world. I concluded that it was an online clothing store, and the company was an American company. The data, for the most part, was clean but I made the below changes in the "Transform" section of Power BI:
 
-Added Table Descriptions for clarification.
-Added a stand alone calendar table, good practice to help with time intelligence.
-Renamed some columns for clarity.
-Changed some timestamps to date
-Added a custom column to the "website" table to show if a user was an existing customer or not.
-Fixed Spain & Germany showing twice with different names.
+Added Table Descriptions for clarification. 
+Added a stand alone calendar table, good practice to help with time intelligence. 
+Renamed some columns for clarity. 
+Changed some timestamps to date. 
+Added a custom column to the "website" table to show if a user was an existing customer or not. 
+Fixed Spain & Germany showing twice with different names. 
 ![jaja](Custom%20Column%20for%20Existing%20Customer.png)
 ![akjauiaa](Spain%20%26%20Germany.png)
-
-
-
-![ajajau](Semantic%20Model.png)
 
 
 ### What do I want to show?
@@ -43,6 +39,7 @@ Myself and my marketing team need to understand the traffic, by country, city an
 ### Power BI Semantic Model
 Once I had a general idea of what i wanted to build I looked at the tables within Power Bi and separated out the Data Tables(below) from the Lookup Tables(above).
 Then i started to create the relationships whilst creating tables and testing the relationships to make sure they are correct and working.
+![ajajau](Semantic%20Model.png)
 
 ### Example DAX measures used
 
