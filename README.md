@@ -7,10 +7,11 @@ I decided to host a second project and thought it a good idea to create, documen
 
 ### Google BigQuery
 I used the fictitious ecommerce data called "TheLook" hosted by Google BigQuery and imported this directly into Power BI. Once imported i took a look at the data as there was no descriptions to be found of the tables and coliumns,
+
 Therefore, for this example I decided to make some assumptions of the data, something i wouldn't do in a real world example. Exploring the data i came to the conclusion that t was an online clothing store and the company was an American company. The data for the most part was clean but i made the below changes in the "Transform" section of Power BI:
 
+![blah](Big%20Query.png)
 
-![F1 SQL](CloudSQL.png) 
 
 Added Table Descriptions for clarification.
 Added a stand alone calendar table, good practice to help with time intelligence.
