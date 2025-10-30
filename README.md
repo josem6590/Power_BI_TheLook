@@ -76,6 +76,7 @@ Then a mix of detail with tables and relevant graphs for easy viewing.<br>
 
 ### YOY Revenue
 We are 60% up YOY with significant growth in all markets apart from Poland, Austria and Colombia. We have outperformed in all quarters in comparison to last year, and sales consistently trend up throughout all quarters. We can also see the Revenue by Month - Full Year, seeing how we have grown YOY significantly. In regard to products, it's the larger, more costly items that are producing the most revenue.
+![aaa](page%201.png)
 
 ### Sales Completed
 Overall sales completed show that China, the United States and Brazil account for 71% of the revenue we receive; these are key business countries for us. We can further see by clicking through that such places as Shanghai and Beijing are really driving the business. This will help the marketing team when we try to drive our marketing efforts. We can also see this from the map view, especially if we filter for specific countries and zoom in to see what areas are driving business. Providing insights for more localised strategic planning.
