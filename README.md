@@ -61,7 +61,7 @@ m_gross_profit = SUMX(ordered_items, ordered_items[sale_price] - RELATED(product
 m_avg_items_ordered = CALCULATE([m_avg_items_per_order], ordered_items)
 - This provides the average items ordered, but because in the semantic model the orders table is downstream from the ordered_items tables, I have forced the relationship uphill using the above DAX.
 
-%_items_returned = DIVIDE([m_returned_items], [m_count_items_ordered])
+m_%_items_returned = DIVIDE([m_returned_items], [m_count_items_ordered])
 - Returns the % of items returned by dividing the number of returned items by the count of items ordered.
 
 m_distinct_session_count = DISTINCTCOUNT('website events'[session_id])
@@ -75,21 +75,25 @@ High-Level Overview Cards.<br>
 Then a mix of detail with tables and relevant graphs for easy viewing.<br>
 
 ### YOY Revenue
-We are 60% up YOY with significant growth in all markets apart from Poland, Austria and Colombia. We have outperformed in all quarters in comparison to last year, and sales consistently trend up throughout all quarters. We can also see the Revenue by Month - Full Year, seeing how we have grown YOY significantly. In regard to products, it's the larger, more costly items that are producing the most revenue.
+We are 60% up YOY with significant growth in all markets apart from Poland, Austria and Colombia. We have outperformed in all quarters in comparison to last year, and sales consistently trend up throughout all quarters. We can also see the Revenue by Month - Full Year, seeing how we have grown YOY significantly. In regard to products, it's the larger, more costly items that are producing the most revenue.<br>
+
 ![aaa](page%201.png)
 
 ### Sales Completed
 Overall sales completed show that China, the United States and Brazil account for 71% of the revenue we receive; these are key business countries for us. We can further see by clicking through that such places as Shanghai and Beijing are really driving the business. This will help the marketing team when we try to drive our marketing efforts. We can also see this from the map view, especially if we filter for specific countries and zoom in to see what areas are driving business. Providing insights for more localised strategic planning.
 This page also has more of a focus on the products being sold, and with the filters we have, we can really drill down to see what the key brands and products are.
-I can see the number of orders and the number of items ordered.
+I can see the number of orders and the number of items ordered.<br>
+
 ![ajaiwhg](PAGE%202.png)
 
 ### Items Cancelled/Returned
-The key metric on this page is the % of items returned/cancelled because we need to check for any anomalies by product or even country. Also, we need to understand what good looks like because 10% of items being returned seems high and raises more questions in regards to how we can go about reducing that. In the same vein, further investigation needs to be done on my many items that are being cancelled.
+The key metric on this page is the % of items returned/cancelled because we need to check for any anomalies by product or even country. Also, we need to understand what good looks like because 10% of items being returned seems high and raises more questions in regards to how we can go about reducing that. In the same vein, further investigation needs to be done on my many items that are being cancelled.<br>
+
 ![atere](pAGE%203.png)
 
 ### Website
-We need to keep growing our web page views and sessions, so we need to keep our eye on this. When you filter through the years, you can see our existing customer base grow significantly YOY. Email and Adwords together account for 75% of the traffic coming to our site.
+We need to keep growing our web page views and sessions, so we need to keep our eye on this. When you filter through the years, you can see our existing customer base grow significantly YOY. Email and Adwords together account for 75% of the traffic coming to our site.<br>
+
 ![tatat](PAGE%204.png)
 
 ### Next steps and suggestions
