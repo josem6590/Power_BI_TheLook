@@ -90,6 +90,7 @@ The key metric on this page is the % of items returned/cancelled because we need
 
 ### Website
 We need to keep growing our web page views and sessions, so we need to keep our eye on this. When you filter through the years, you can see our existing customer base grow significantly YOY. Email and Adwords together account for 75% of the traffic coming to our site.
+![tatat](PAGE%204.png)
 
 ### Next steps and suggestions
 In this example, the main focus has been on building a Power BI report with descriptive analytics, helping the business track key performance indicators and providing a good user experience. Our next steps would be to perform some exploratory analysis of the data to uncover any significant insights, which may thus lead to changes to the reporting structure.
