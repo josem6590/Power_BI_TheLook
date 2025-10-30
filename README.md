@@ -17,6 +17,10 @@ Therefore, for this example I decided to make some assumptions of the data, some
 
 ![jajaja](PowerBi%20Import.png)
 
+![ajajau](Semantic%20Model.png)
+
+
+
 Added Table Descriptions for clarification.
 Added a stand alone calendar table, good practice to help with time intelligence.
 Renamed some columns for clarity.
