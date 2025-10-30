@@ -15,6 +15,7 @@ Therefore, for this example I decided to make some assumptions of the data, some
 ![jaja](Custom%20Column%20for%20Existing%20Customer.png)
 
 
+![jajaja](PowerBi%20Import.png)
 
 Added Table Descriptions for clarification.
 Added a stand alone calendar table, good practice to help with time intelligence.
