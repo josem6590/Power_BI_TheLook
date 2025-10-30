@@ -86,6 +86,7 @@ I can see the number of orders and the number of items ordered.
 
 ### Items Cancelled/Returned
 The key metric on this page is the % of items returned/cancelled because we need to check for any anomalies by product or even country. Also, we need to understand what good looks like because 10% of items being returned seems high and raises more questions in regards to how we can go about reducing that. In the same vein, further investigation needs to be done on my many items that are being cancelled.
+![atere](pAGE%203.png)
 
 ### Website
 We need to keep growing our web page views and sessions, so we need to keep our eye on this. When you filter through the years, you can see our existing customer base grow significantly YOY. Email and Adwords together account for 75% of the traffic coming to our site.
