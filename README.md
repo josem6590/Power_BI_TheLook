@@ -43,7 +43,7 @@ The Marketing team and I need to understand website traffic, by country, city an
 
 #### Power BI Semantic Model
 Once I had a general idea of what I wanted to see, I looked at the tables within Power BI and separated the Data Tables(below) from the Lookup Tables(above).
-Then I started to create the relationships, whilst creating tables to test those relationships to make sure they are correct and working as intended.
+Then I started to create the relationships, whilst creating tables in the visualisation tab ***** to test those relationships to make sure they are correct and working as intended.
 
 ![ajajau](Semantic%20Model.png)
 
