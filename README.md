@@ -6,13 +6,13 @@
 I decided to host a second project and thought it a good idea to create, document and explain my thought process behind the below Power BI Dashboard.
 
 ### Google BigQuery
-I used the fictitious e-commerce data called "TheLook" hosted by Google BigQuery and imported this directly into Power BI. I did look to see if there was any explanation or description of the tables and coloumns but there was not.
+I used the fictitious e-commerce data called "TheLook" hosted by Google BigQuery and imported this directly into Power BI. I did look to see if there was any explanation or description of the tables and columns, but there was not.
 ![blah](Big%20Query.png)
 ![jajaja](PowerBi%20Import.png)
 Therefore, once imported into Power BI, I took a good look at the data and decided to make some assumptions, something I obviously would not do in the real world. I concluded that it was an online clothing store, and the company was an American company. The data, for the most part, was clean, but I made the following changes in the "Transform" section of Power BI:
 
 - Added Table Descriptions for clarification. <br>
-- Added a standalone calendar table, good practice to help with time intelligence. <br>
+- Added a standalone calendar table, a good practice to help with time intelligence. <br>
 - Renamed some columns for clarity. <br>
 - Changed some timestamps to dates. <br>
 - Added a custom column to the "website" table to show if a user was an existing customer or not. <br>
