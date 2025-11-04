@@ -96,5 +96,22 @@ We need to keep growing our web page views and sessions, so we need to keep our 
 
 ![tatat](PAGE%204.png)
 
+### EDA
+The next steps would have been to perform some exploratory analysis in the hope of answering some of the following questions and potentially creating further revenue:<br>
+1) Can we expand into new territories?<br>
+2) Although on small numbers, why have sales dropped in the following countries: Poland, Austria and Colombia?<br>
+3) What percentage of the population has ordered items in the last three years?<br>
+4) Do any territories stand out? smaller country but with a bigger percentage of population as customers?<br>
+5) If so, what are we doing differently in those markets in comparison to some of our larger markets like China? because perhaps we can replicate and grow those countries by an even larger number, and quickly.<br>
+6) I would look at online purchasing habits within each country, by clothing store and gender, to see if they reflect our gender analysis. If, for example, in some countries 80% of online clothes are purchased by women, it would raise the question that perhaps we should spend some extra marketing specifically for women in those countries.<br>
+7) If 10% of our items are being returned, what would be the bottom-line return if we reduced this by 5%?<br>
+8) Why are so many items being cancelled? And can we reduce that?<br>
+9) We need to look time it takes from receiving an order to it being sent out of fulfilled, to make sure we don't have any issues. Perhaps there are some delays, and people are then cancelling.<br>
+10) We need to look at the whole purchasing funnel to evaluate this better and provide more useful information to the user.
+
+Asking these questions would lead me to make some changes to the dashboard, but iterations often happen during the exploratory stage.
+
 ### Next steps and suggestions
-In this example, the main focus has been on building a Power BI report with descriptive analytics, helping the business track key performance indicators and providing a good user experience. Our next steps would be to perform some exploratory analysis of the data to uncover any significant insights, which may thus lead to changes to the reporting structure.
+The main focus of this exercise has been on building a Power BI report using this fictitious data, explaining my thought process along the way, highlighting my knowledge of data modelling, DAX measures, visualisation and UX. Thus, I will not go into summarising the key insights that are visible on the Power BI file, so that I can be as brief as possible. 
+
+
