@@ -28,16 +28,16 @@ I then decided to take some time out to sit down and brainstorm the next steps. 
 I decided initially on the below, but also added some extras as certain things came to mind during the build, which we will come onto later:
 
 #### Report Pages:
-##### YOY Revenue<br>
+##### YOY Revenue
 Having decided that Revenue was a key focus, I wanted to have a look at how the business is performing YOY, based on Sales Completed.<br>
 
-##### Sales Completed All Years<br>
+##### Sales Completed All Years
 I wanted the ability and add some further KPIs, profit, orders, items ordered, etc, with the ability to see what product was being sold by location.<br>
 
-##### Items Returned/Cancelled<br>
+##### Items Returned/Cancelled
 We would have as a business an acceptable measure for items returned and cancelled, hence why I wanted to track this.<br>
 
-##### Website<br>
+##### Website
 The Marketing team and I need to understand website traffic, by country, city and have an understanding of the conversion rate.<br>
 
 
