@@ -69,7 +69,7 @@ m_distinct_session_count = DISTINCTCOUNT('website events'[session_id])
 
 ### Visualisations
 I have tried to keep each reporting tab visually consistent with the following:
-Clear Title for the page, top left.<br>
+Clear title for the page, top left.<br>
 Filters always top right.<br>
 High-Level Overview Cards.<br>
 Then a mix of detail with tables and relevant graphs for easy viewing.<br>
