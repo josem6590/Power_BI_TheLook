@@ -1,6 +1,6 @@
 # PROJECT 2
 
-## THELOOK Power BI Report Example
+## TheLOOK Power BI Report Example
 
 ### Introduction
 I decided to host a second project and thought it a good idea to create, document and explain my thought process behind the below Power BI Dashboard.
@@ -28,20 +28,20 @@ I then decided to take some time out to sit down and brainstorm the next steps. 
 I decided initially on the below, but also added some extras as certain things came to mind during the build, which we will come onto later:
 
 #### Report Pages:
-#### YOY Revenue<br>
+##### YOY Revenue<br>
 Having decided that Revenue was a key focus, I wanted to have a look at how the business is performing YOY, based on Sales Completed.<br>
 
-#### Sales Completed All Years<br>
+##### Sales Completed All Years<br>
 I wanted the ability and add some further KPIs, profit, orders, items ordered, etc, with the ability to see what product was being sold by location.<br>
 
-#### Items Returned/Cancelled<br>
+##### Items Returned/Cancelled<br>
 We would have as a business an acceptable measure for items returned and cancelled, hence why I wanted to track this.<br>
 
-#### Website<br>
+##### Website<br>
 The Marketing team and I need to understand website traffic, by country, city and have an understanding of the conversion rate.<br>
 
 
-### Power BI Semantic Model
+#### Power BI Semantic Model
 Once I had a general idea of what I wanted to see, I looked at the tables within Power BI and separated the Data Tables(below) from the Lookup Tables(above).
 Then I started to create the relationships, whilst creating tables to test those relationships to make sure they are correct and working as intended.
 
@@ -111,7 +111,7 @@ The next steps would have been to perform some exploratory analysis in the hope 
 
 Asking these questions would lead me to make some changes to the dashboard, but iterations often happen during the exploratory stage.
 
-### Next steps and suggestions
+### Conclusion
 The main focus of this exercise has been on building a Power BI report using this fictitious data, explaining my thought process along the way, highlighting my knowledge of data modelling, DAX measures, visualisation and UX. Thus, I will not go into summarising the key insights that are visible on the Power BI file, so that I can be as brief as possible. 
 
 
