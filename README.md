@@ -70,8 +70,8 @@ m_distinct_session_count = DISTINCTCOUNT('website events'[session_id])
 ### Visualisations
 I have tried to keep each reporting tab visually consistent with the following:
 Clear title for the page, top left.<br>
-Filters always top right.<br>
-High-Level Overview Cards.<br>
+Filters found top right.<br>
+High-Level overview cards.<br>
 Then a mix of detail with tables and relevant graphs for easy viewing.<br>
 
 ### YOY Revenue
@@ -80,14 +80,14 @@ We are 60% up YOY with significant growth in all markets apart from Poland, Aust
 ![aaa](page%201.png)
 
 ### Sales Completed
-Overall sales completed show that China, the United States and Brazil account for 71% of the revenue we receive; these are key business countries for us. We can further see by clicking through that such places as Shanghai and Beijing are really driving the business. This will help the marketing team when we try to drive our marketing efforts. We can also see this from the map view, especially if we filter for specific countries and zoom in to see what areas are driving business. Providing insights for more localised strategic planning.
+Overall sales completed show that China, the United States and Brazil account for 71% of the revenue we receive; these are key business countries for us. We can further see by clicking through that such places as Shanghai and Beijing are really driving the business in China. This will help the marketing team when we try to drive our marketing efforts. We can also see this from the map view, especially if we filter for specific countries and zoom in to see what areas are driving business. Providing insights for more localised strategic marketing efforts.<br>
 This page also has more of a focus on the products being sold, and with the filters we have, we can really drill down to see what the key brands and products are.
 I can see the number of orders and the number of items ordered.<br>
 
 ![ajaiwhg](PAGE%202.png)
 
 ### Items Cancelled/Returned
-The key metric on this page is the % of items returned/cancelled because we need to check for any anomalies by product or even country. Also, we need to understand what good looks like because 10% of items being returned seems high and raises more questions in regards to how we can go about reducing that. In the same vein, further investigation needs to be done on my many items that are being cancelled.<br>
+The key metric on this page is the % of items returned/cancelled because we need to check for any anomalies by product or even country. Also, we need to understand what good looks like because 10% of items being returned seems high and raises more questions in regards to how we can go about reducing that. In the same vein, further investigation needs to be done on why so many items are being cancelled.<br>
 
 ![atere](pAGE%203.png)
 
@@ -98,20 +98,21 @@ We need to keep growing our web page views and sessions, so we need to keep our 
 
 ### EDA
 The next steps would have been to perform some exploratory analysis in the hope of answering some of the following questions and potentially creating further revenue:<br>
+
 1) Can we expand into new territories?<br>
 2) Although on small numbers, why have sales dropped in the following countries: Poland, Austria and Colombia?<br>
-3) What percentage of the population has ordered items in the last three years?<br>
-4) Do any territories stand out? smaller country but with a bigger percentage of population as customers?<br>
+3) What percentage of the population by country has ordered items in the last three years?<br>
+4) Do any territories stand out? Are there smaller countries that have a bigger percentage of population as customers?<br>
 5) If so, what are we doing differently in those markets in comparison to some of our larger markets like China? because perhaps we can replicate and grow those countries by an even larger number, and quickly.<br>
 6) I would look at online purchasing habits within each country, by clothing store and gender, to see if they reflect our gender analysis. If, for example, in some countries 80% of online clothes are purchased by women, it would raise the question that perhaps we should spend some extra marketing specifically for women in those countries.<br>
 7) If 10% of our items are being returned, what would be the bottom-line return if we reduced this by 5%?<br>
 8) Why are so many items being cancelled? And can we reduce that?<br>
-9) We need to look time it takes from receiving an order to it being sent out of fulfilled, to make sure we don't have any issues. Perhaps there are some delays, and people are then cancelling.<br>
+9) We should look at how long it takes from receiving an order to it being sent out or fulfilled, to make sure we don't have any issues. Perhaps there are some delays, and people are then cancelling.<br>
 10) We need to look at the whole purchasing funnel to evaluate this better and provide more useful information to the user.
 
 Asking these questions would lead me to make some changes to the dashboard, but iterations often happen during the exploratory stage.
 
 ### Conclusion
-The main focus of this exercise has been on building a Power BI report using this fictitious data, explaining my thought process along the way, highlighting my knowledge of data modelling, DAX measures, visualisation and UX. Thus, I will not go into summarising the key insights that are visible on the Power BI file, so that I can be as brief as possible. 
+The main focus of this exercise has been on building a Power BI report using this fictitious data, explaining my thought process along the way, highlighting my knowledge of data modelling, DAX measures, visualisation, UX and commercial data acumen. Thus, I will not go into summarising the key insights that are visible on the Power BI file, so that I can be as brief as possible. 
 
 
